@@ -1,0 +1,217 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Mout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Mout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Mout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Mout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Mout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Mout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Mout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Nout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Nout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Nout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Nout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Nout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Nout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Nout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Oout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Oout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Oout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Oout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Oout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Oout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Oout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Pout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Pout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Pout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Pout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Pout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Pout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Pout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Rout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Rout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Rout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Rout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Rout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Rout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Rout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm",
+					"strict" : false
+				},
+				{
+					"name" : "setAlarmLED",
+					"strict" : false
+				},
+				{
+					"name" : "alarmMode",
+					"strict" : false
+				},
+				{
+					"name" : "setAlarm",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "setHour",
+					"strict" : false
+				},
+				{
+					"name" : "setMin",
+					"strict" : false
+				},
+				{
+					"name" : "setSec",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "StartStop",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

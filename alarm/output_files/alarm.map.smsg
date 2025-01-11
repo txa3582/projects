@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at alarm.v(3): object "clock" differs only in case from object "Clock" in the same scope File: C:/alarmClock/alarm/alarm.v Line: 3
+Info (10281): Verilog HDL Declaration information at alarm.v(5): object "alarm" differs only in case from object "Alarm" in the same scope File: C:/alarmClock/alarm/alarm.v Line: 5

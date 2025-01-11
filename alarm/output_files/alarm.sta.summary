@@ -1,0 +1,701 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : -6.319
+TNS   : -6.781
+
+Type  : Slow 1200mV 85C Model Setup 'timer:Clock|dividebyN:min_low|OUT'
+Slack : -6.305
+TNS   : -7.907
+
+Type  : Slow 1200mV 85C Model Setup 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : -6.206
+TNS   : -6.497
+
+Type  : Slow 1200mV 85C Model Setup 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : -5.812
+TNS   : -25.504
+
+Type  : Slow 1200mV 85C Model Setup 'alarmMode'
+Slack : -5.606
+TNS   : -27.929
+
+Type  : Slow 1200mV 85C Model Setup 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : -5.594
+TNS   : -29.892
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -5.143
+TNS   : -5.546
+
+Type  : Slow 1200mV 85C Model Setup 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : -0.464
+TNS   : -1.276
+
+Type  : Slow 1200mV 85C Model Setup 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : -0.352
+TNS   : -0.919
+
+Type  : Slow 1200mV 85C Model Setup 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : -0.214
+TNS   : -0.378
+
+Type  : Slow 1200mV 85C Model Setup 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : -0.191
+TNS   : -0.351
+
+Type  : Slow 1200mV 85C Model Setup 'StartStop'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timer:Clock|dividebyN:min_low|OUT'
+Slack : 0.324
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : 0.330
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : 0.330
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'alarmMode'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StartStop'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : 0.854
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : 1.171
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : -7.235
+TNS   : -28.940
+
+Type  : Slow 1200mV 85C Model Recovery 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : -6.604
+TNS   : -58.864
+
+Type  : Slow 1200mV 85C Model Recovery 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : -6.464
+TNS   : -25.856
+
+Type  : Slow 1200mV 85C Model Recovery 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : -6.005
+TNS   : -18.015
+
+Type  : Slow 1200mV 85C Model Recovery 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : -5.964
+TNS   : -58.624
+
+Type  : Slow 1200mV 85C Model Recovery 'alarmMode'
+Slack : -5.697
+TNS   : -97.378
+
+Type  : Slow 1200mV 85C Model Recovery 'timer:Clock|dividebyN:min_low|OUT'
+Slack : -5.670
+TNS   : -17.010
+
+Type  : Slow 1200mV 85C Model Recovery 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : -5.514
+TNS   : -22.056
+
+Type  : Slow 1200mV 85C Model Recovery 'clock'
+Slack : -5.229
+TNS   : -15.687
+
+Type  : Slow 1200mV 85C Model Recovery 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : -4.531
+TNS   : -13.593
+
+Type  : Slow 1200mV 85C Model Recovery 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : -3.417
+TNS   : -10.251
+
+Type  : Slow 1200mV 85C Model Removal 'alarmMode'
+Slack : 1.771
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clock'
+Slack : 2.677
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : 2.685
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : 3.077
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timer:Clock|dividebyN:min_low|OUT'
+Slack : 3.278
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : 3.374
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : 3.674
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : 3.758
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : 4.117
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : 4.864
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : 5.041
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'alarmMode'
+Slack : -3.000
+TNS   : -45.090
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -8.612
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StartStop'
+Slack : -3.000
+TNS   : -4.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : -1.403
+TNS   : -15.433
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : -1.403
+TNS   : -15.433
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : -1.403
+TNS   : -7.015
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timer:Clock|dividebyN:min_low|OUT'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 0C Model Setup 'timer:Clock|dividebyN:min_low|OUT'
+Slack : -5.870
+TNS   : -7.173
+
+Type  : Slow 1200mV 0C Model Setup 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : -5.855
+TNS   : -6.019
+
+Type  : Slow 1200mV 0C Model Setup 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : -5.748
+TNS   : -5.841
+
+Type  : Slow 1200mV 0C Model Setup 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : -5.397
+TNS   : -22.412
+
+Type  : Slow 1200mV 0C Model Setup 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : -5.189
+TNS   : -26.447
+
+Type  : Slow 1200mV 0C Model Setup 'alarmMode'
+Slack : -5.169
+TNS   : -23.948
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -4.681
+TNS   : -4.858
+
+Type  : Slow 1200mV 0C Model Setup 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : -0.335
+TNS   : -0.813
+
+Type  : Slow 1200mV 0C Model Setup 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : -0.226
+TNS   : -0.487
+
+Type  : Slow 1200mV 0C Model Setup 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : -0.111
+TNS   : -0.177
+
+Type  : Slow 1200mV 0C Model Setup 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : -0.081
+TNS   : -0.143
+
+Type  : Slow 1200mV 0C Model Setup 'StartStop'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timer:Clock|dividebyN:min_low|OUT'
+Slack : 0.289
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : 0.296
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : 0.296
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'alarmMode'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StartStop'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : 0.775
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : 1.074
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : -6.650
+TNS   : -26.600
+
+Type  : Slow 1200mV 0C Model Recovery 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : -6.141
+TNS   : -54.558
+
+Type  : Slow 1200mV 0C Model Recovery 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : -5.979
+TNS   : -23.916
+
+Type  : Slow 1200mV 0C Model Recovery 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : -5.539
+TNS   : -16.617
+
+Type  : Slow 1200mV 0C Model Recovery 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : -5.529
+TNS   : -54.302
+
+Type  : Slow 1200mV 0C Model Recovery 'timer:Clock|dividebyN:min_low|OUT'
+Slack : -5.270
+TNS   : -15.810
+
+Type  : Slow 1200mV 0C Model Recovery 'alarmMode'
+Slack : -5.240
+TNS   : -89.015
+
+Type  : Slow 1200mV 0C Model Recovery 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : -5.104
+TNS   : -20.416
+
+Type  : Slow 1200mV 0C Model Recovery 'clock'
+Slack : -4.757
+TNS   : -14.271
+
+Type  : Slow 1200mV 0C Model Recovery 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : -4.229
+TNS   : -12.687
+
+Type  : Slow 1200mV 0C Model Recovery 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : -3.197
+TNS   : -9.591
+
+Type  : Slow 1200mV 0C Model Removal 'alarmMode'
+Slack : 1.546
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clock'
+Slack : 2.303
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : 2.489
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : 2.860
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timer:Clock|dividebyN:min_low|OUT'
+Slack : 3.030
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : 3.104
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : 3.369
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : 3.439
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : 3.764
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : 4.429
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : 4.596
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'alarmMode'
+Slack : -3.000
+TNS   : -45.090
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -8.612
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StartStop'
+Slack : -3.000
+TNS   : -4.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : -1.403
+TNS   : -15.433
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : -1.403
+TNS   : -15.433
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : -1.403
+TNS   : -7.015
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timer:Clock|dividebyN:min_low|OUT'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Fast 1200mV 0C Model Setup 'timer:Clock|dividebyN:min_low|OUT'
+Slack : -2.473
+TNS   : -2.473
+
+Type  : Fast 1200mV 0C Model Setup 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : -2.469
+TNS   : -2.469
+
+Type  : Fast 1200mV 0C Model Setup 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : -2.411
+TNS   : -2.411
+
+Type  : Fast 1200mV 0C Model Setup 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : -2.161
+TNS   : -4.660
+
+Type  : Fast 1200mV 0C Model Setup 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : -2.114
+TNS   : -7.212
+
+Type  : Fast 1200mV 0C Model Setup 'alarmMode'
+Slack : -2.050
+TNS   : -6.438
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -1.885
+TNS   : -1.885
+
+Type  : Fast 1200mV 0C Model Setup 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : 0.479
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : 0.481
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StartStop'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'alarmMode'
+Slack : 0.080
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timer:Clock|dividebyN:min_low|OUT'
+Slack : 0.138
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : 0.147
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : 0.152
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StartStop'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : 0.462
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : -2.948
+TNS   : -11.792
+
+Type  : Fast 1200mV 0C Model Recovery 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : -2.642
+TNS   : -22.730
+
+Type  : Fast 1200mV 0C Model Recovery 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : -2.566
+TNS   : -10.264
+
+Type  : Fast 1200mV 0C Model Recovery 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : -2.308
+TNS   : -6.924
+
+Type  : Fast 1200mV 0C Model Recovery 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : -2.254
+TNS   : -22.128
+
+Type  : Fast 1200mV 0C Model Recovery 'timer:Clock|dividebyN:min_low|OUT'
+Slack : -2.142
+TNS   : -6.426
+
+Type  : Fast 1200mV 0C Model Recovery 'alarmMode'
+Slack : -2.118
+TNS   : -31.562
+
+Type  : Fast 1200mV 0C Model Recovery 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : -2.051
+TNS   : -8.204
+
+Type  : Fast 1200mV 0C Model Recovery 'clock'
+Slack : -1.958
+TNS   : -5.874
+
+Type  : Fast 1200mV 0C Model Recovery 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : -1.574
+TNS   : -4.722
+
+Type  : Fast 1200mV 0C Model Recovery 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : -1.019
+TNS   : -3.057
+
+Type  : Fast 1200mV 0C Model Removal 'alarmMode'
+Slack : 0.505
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clock'
+Slack : 0.988
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : 1.060
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : 1.248
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timer:Clock|dividebyN:min_low|OUT'
+Slack : 1.335
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : 1.356
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : 1.533
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : 1.539
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : 1.772
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : 2.100
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : 2.235
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'alarmMode'
+Slack : -3.000
+TNS   : -34.546
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -7.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StartStop'
+Slack : -3.000
+TNS   : -4.189
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div1000L|OUT'
+Slack : -1.000
+TNS   : -11.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div10|OUT'
+Slack : -1.000
+TNS   : -11.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timer:Clock|oneHz:OneHzClockGenerator|dividebyN:div5|OUT'
+Slack : -1.000
+TNS   : -5.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'alarmTime:Alarm|dividebyN:hour_low|OUT'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timer:Clock|dividebyN:hour_low|OUT'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timer:Clock|dividebyN:min_low|OUT'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timer:Clock|dividebyN:seconds_low|OUT'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'alarmTime:Alarm|dividebyN:min_low|OUT'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'alarmTime:Alarm|dividebyN:seconds_low|OUT'
+Slack : -1.000
+TNS   : -3.000
+
+------------------------------------------------------------
